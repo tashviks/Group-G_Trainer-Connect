@@ -2,7 +2,7 @@
 
 ### Project Idea:
 
-`The Trainer-Link application aims to create an interactive platform where users can register and access a wide array of services, with a special emphasis on connecting them with proficient trainers. This platform will provide a smooth and effortless experience, empowering users to explore various services, choose their desired trainers, book sessions, and provide feedback.`
+The Trainer-Link application aims to create an interactive platform where users can register and access a wide array of services, with a special emphasis on connecting them with proficient trainers. This platform will provide a smooth and effortless experience, empowering users to explore various services, choose their desired trainers, book sessions, and provide feedback.
 
 ---
 
